@@ -22,4 +22,5 @@ Em breve...
 - 💼 [[Meu LinkedIn]](https://www.linkedin.com/in/daniel-bonato-300a77265/)
 
 Obrigado por visitar meu perfil! Vamos conectar e colaborar no emocionante mundo do desenvolvimento de software. 😊🚀
+
 ![programmer-programming](https://github.com/BonatoDaniel/BonatoDaniel/assets/128553659/8d7e7e88-3871-4d2a-99ed-da6f731c54f9)
