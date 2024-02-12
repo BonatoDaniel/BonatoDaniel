@@ -1,23 +1,7 @@
-#Olá! Aqui é o Daniels!
-##Bem vindo ao meu perfil GitHub 👋
-<!--
-**BonatoDaniel/BonatoDaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Bem-vindo ao meu perfil no GitHub 👋
 
 Olá, sou Daniel, um apaixonado por desenvolvimento de software e tecnologia. Este é o meu espaço no GitHub, onde compartilho projetos, códigos e ideias que refletem minha jornada e paixão pelo mundo da programação.
+![octocat-1707774875620](https://github.com/BonatoDaniel/BonatoDaniel/assets/128553659/08916eda-5f9e-4107-bc78-2931e2df83c6)
 
 ## Sobre Mim
 
@@ -32,8 +16,6 @@ EStou cursando Análise e Desenvolvimento de Sistemas na Universidade de Mogi da
 ## A Cold Room
 
 Em breve...
-
-Sinta-se à vontade para explorar os repositórios e fornecer feedback. Estou sempre em busca de aprimorar minhas habilidades e aprender com a comunidade.
 
 ## Contato
 
