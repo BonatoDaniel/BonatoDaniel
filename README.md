@@ -38,6 +38,6 @@ Sinta-se à vontade para explorar os repositórios e fornecer feedback. Estou se
 ## Contato
 
 - 📧 E-mail: danieloliveirabonato@gmail.com
-- 💼 LinkedIn: [[Seu Perfil no LinkedIn]](https://www.linkedin.com/in/daniel-bonato-300a77265/)
+- 💼 [[Meu LinkedIn]](https://www.linkedin.com/in/daniel-bonato-300a77265/)
 
 Obrigado por visitar meu perfil! Vamos conectar e colaborar no emocionante mundo do desenvolvimento de software. 😊🚀
