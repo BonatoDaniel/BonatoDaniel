@@ -1,7 +1,6 @@
 # Bem-vindo ao meu perfil no GitHub 👋
 
 Olá, sou Daniel, um apaixonado por desenvolvimento de software e tecnologia. Este é o meu espaço no GitHub, onde compartilho projetos, códigos e ideias que refletem minha jornada e paixão pelo mundo da programação.
-![octocat-1707774875620]([https://github.com/BonatoDaniel/BonatoDaniel/assets/128553659/08916eda-5f9e-4107-bc78-2931e2df83c6](https://media1.tenor.com/m/41I-iMyClCgAAAAd/programmer-programming.gif))
 
 ## Sobre Mim
 
@@ -23,3 +22,4 @@ Em breve...
 - 💼 [[Meu LinkedIn]](https://www.linkedin.com/in/daniel-bonato-300a77265/)
 
 Obrigado por visitar meu perfil! Vamos conectar e colaborar no emocionante mundo do desenvolvimento de software. 😊🚀
+![programmer-programming](https://github.com/BonatoDaniel/BonatoDaniel/assets/128553659/8d7e7e88-3871-4d2a-99ed-da6f731c54f9)
